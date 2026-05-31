@@ -51,7 +51,7 @@ KPI Cards (Revenue, Orders, Profit).
 
 📷 Dashboard Preview
 
-()
+(![E-Commerce Dashboard](https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/E_Commerce_image.png))
 
 📈 Outcome
 
@@ -60,7 +60,7 @@ This project helped improve data analysis skills, understanding of business KPIs
 👨‍💻 Author
 
 Jai Agrawal
-Data Analyst Enthusiast | Power BI | SQL
+Data Analyst Enthusiast Python | Power BI | SQL
 
 📬 Contact
 
