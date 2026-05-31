@@ -51,7 +51,7 @@ KPI Cards (Revenue, Orders, Profit).
 
 📷 Dashboard Preview
 
-(![E-Commerce Dashboard](https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/E-commerce_image.png))
+
 
 📈 Outcome
 
